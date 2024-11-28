@@ -25,12 +25,24 @@ header {
   padding: 1rem;
 }
 a:hover{
-color: #E37383;
-
-}
-p{
-margin-bottom: 35px;
+  color: #E37383;
+  }
+div{
+  font-size: x-large;
 }
 h2{
-margin-top: 35px;
+  text-align: center;
+  padding-bottom: 3%;
+  padding-top: 3%;
+}
+p{
+  text-align: justify;
+  margin-left: 8%;
+  margin-right: 8%;
+}
+h3{
+  margin-left: 8%;
+  margin-right: 8%;
+  padding-top: 3%;
+  padding-bottom: 3%;
 }
