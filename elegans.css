@@ -32,30 +32,38 @@ a:hover{
     
 }
 
-p{
-    margin-bottom: 35px;
-}
-
 #elso{
     width: 75%;
-    margin-bottom: 70px;
+    line-height: 50px;
+    height: 400px;
+    text-align: justify;
+    padding: 50px;
 }
 
 #masodik{
     width: 50%;
-    margin-bottom: 70px;
+    line-height: 50px;
+    height: 400px;
+    text-align: justify;
+    padding: 50px;
 }
 
 #harmadik{
     width: 50%;
-    margin-bottom: 70px;
+    line-height: 50px;
+    height: 400px;
+    text-align: justify;
+    padding: 50px;
 }
 
 #negyedik{
     width: 50%;
-    margin-bottom: 70px;
+    line-height: 50px;
+    height: 400px;
+    text-align: justify;
+    padding: 50px;
 }
 
-#grafitszurke{
+img{
     float: right;
 }
