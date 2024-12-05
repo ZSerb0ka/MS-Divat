@@ -17,7 +17,6 @@ body {
   background-color: #C1E1C1;
   margin-left: 100px;
   margin-right: 100px;
-  font-size: xx-large;
 }
 header {
   background-color: #3E1E3E;
@@ -30,24 +29,18 @@ color: #E37383;
 
 }
 p{
-text-align: justify;
 margin-bottom: 35px;
+text-align: left;
+font-size: x-large;
 }
 h2{
 padding-bottom: 3%;
 padding-top: 3%;
+text-align: left;
 }
-#elso{
-  width: 75%;
-  margin-bottom: 70px;
+img{
+  float: right
 }
-
-#masodik{
-  width: 50%;
-  margin-bottom: 70px;
-}
-
-#harmadik{
-  width: 50%;
-  margin-bottom: 70px;
+div{
+  font-size: x-large;
 }

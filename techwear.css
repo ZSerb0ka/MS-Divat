@@ -50,5 +50,9 @@ h3{
   float: right;
 }
 .dzsekik_kep{
-  float: left;
+  float: right;
+  padding-left: 50px;  
+}
+.ezkellide{
+  padding-top: 200px;
 }

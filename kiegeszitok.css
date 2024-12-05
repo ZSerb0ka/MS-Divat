@@ -17,6 +17,7 @@ nav{
     background-color: #C1E1C1;
     margin-left: 100px;
     margin-right: 100px;
+    font-size: x-large;
   }
   header {
     background-color: #3E1E3E;
@@ -27,9 +28,6 @@ nav{
   a:hover{
     color: #E37383;
     }
-  div{
-    font-size: x-large;
-  }
   h2{
     text-align: center;
     padding-bottom: 3%;
@@ -46,39 +44,7 @@ nav{
     padding-top: 3%;
     padding-bottom: 3%;
   }
-
-#elso{
-    width: 75%;
-    line-height: 50px;
-    height: 400px;
-    text-align: justify;
-    padding: 50px;
-}
-
-#masodik{
-    width: 50%;
-    line-height: 50px;
-    height: 400px;
-    text-align: justify;
-    padding: 50px;
-}
-
-#harmadik{
-    width: 50%;
-    line-height: 50px;
-    height: 400px;
-    text-align: justify;
-    padding: 50px;
-}
-
-#negyedik{
-    width: 50%;
-    line-height: 50px;
-    height: 400px;
-    text-align: justify;
-    padding: 50px;
-}
-
-img{
-    float: right;
-}
+  .bajusz{
+    text-align: center;
+    font-size: 400px;
+  }
