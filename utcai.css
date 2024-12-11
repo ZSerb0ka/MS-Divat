@@ -29,8 +29,6 @@ a:hover{
   }
 div{
   font-size: x-large;
-  line-height: 50px;
-  text-align: justify;
 }
 h2{
   text-align: center;
@@ -39,8 +37,8 @@ h2{
 }
 p{
   text-align: justify;
-  margin-bottom: 35px;
-  font-size: x-large;
+  margin-left: 8%;
+  margin-right: 8%;
 }
 h3{
   margin-left: 8%;
