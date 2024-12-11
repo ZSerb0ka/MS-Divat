@@ -45,6 +45,10 @@ nav{
     padding-bottom: 3%;
   }
   .bajusz{
-    text-align: center;
-    font-size: 400px;
+    margin-bottom: 500px;
+  }
+  img
+  {
+    float: right;
+    width: 35%;
   }
